@@ -5,6 +5,7 @@ cd distribuidora
 cd externos
 cd pendientes
 rm lista.txt
+cd ..
 rmdir pendientes
 rm lista.txt
 cd ..
